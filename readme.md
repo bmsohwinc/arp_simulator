@@ -67,4 +67,4 @@
 ---
 
 ### Sample Output
-[Here]() is a sample video of the same
+[Here](https://github.com/bmsohwinc/arp_simulator/blob/master/demo.mp4) is a sample video of the same
